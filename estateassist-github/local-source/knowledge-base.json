@@ -1,0 +1,25 @@
+{
+  "notice": "FICTIONAL DEMO DATA — illustrative only; not verified service information or live real estate inventory.",
+  "scenario": "Pune, India sample agency",
+  "serviceAreas": ["Baner", "Wakad", "Kharadi", "Hinjawadi", "Hadapsar"],
+  "properties": [
+    {
+      "id": "DEMO-PUN-001",
+      "label": "Fictional example record — not a listing",
+      "area": "Baner, Pune",
+      "propertyType": "Apartment",
+      "bedrooms": 2,
+      "features": ["sample balcony", "sample parking"],
+      "availability": "Not provided; no live inventory is connected",
+      "price": "Not provided; no approved price is available"
+    }
+  ],
+  "faqs": [
+    { "keywords": ["service area", "areas", "neighbourhood", "neighborhood", "where"], "answer": "This fictional demo scenario covers Baner, Wakad, Kharadi, Hinjawadi and Hadapsar in Pune. These sample areas are not a real agency service promise." },
+    { "keywords": ["fee", "fees", "commission", "charge", "cost"], "answer": "No approved agency fee schedule is included in this fictional demo. A human team member would need to confirm any fees." },
+    { "keywords": ["process", "work", "how does", "steps"], "answer": "In this fictional demo, the assistant records whether you are buying, renting or selling, asks for useful preferences, and can place unanswered questions in a human follow-up queue." },
+    { "keywords": ["sample property", "demo property", "example property"], "answer": "The knowledge base contains one fictional example only: DEMO-PUN-001, a sample 2-bedroom apartment in Baner with illustrative balcony and parking features. It is not a real listing; availability and price are not provided." },
+    { "keywords": ["contact", "human", "person", "agent", "team", "speak"], "answer": "I can place a request in the local human follow-up queue. This demo does not send messages or contact anyone." },
+    { "keywords": ["availability", "available", "vacant", "listing", "property price", "price", "rent for", "cost of"], "answer": "This fictional demo contains no live property listings, availability or approved property prices. I cannot confirm those details; please request human follow-up." }
+  ]
+}
